@@ -11,7 +11,7 @@ import {Profile} from './components/Profile'
 export function App() {
     return (
         <div className="App">
-            <h2>Dev</h2>
+            <h2>Gleb</h2>
             <NavLink className='home_link' to='/'>HOME</NavLink>
             <Header/>
 
