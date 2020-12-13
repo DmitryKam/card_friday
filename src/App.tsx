@@ -13,6 +13,7 @@ export function App() {
         <div className="App">
             <h2>Gleb_Test</h2>
             <h2>Dima_TestFeat</h2>
+            <h2>Misha</h2>
             <NavLink className='home_link' to='/'>HOME</NavLink>
             <Header/>
 
